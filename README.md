@@ -7,3 +7,5 @@ Storing graphml created by yed tool [Yed](https://www.yworks.com/products/yed)
 [2. CRUD document using MongoTemplate- Updating documents.](https://programmingsharing.com/crud-document-using-mongotemplate-updating-documents-9cc662617ccc)
 
 [3. Working with Transactions in Spring Framework](https://programmingsharing.com/working-with-transactions-in-spring-framework-7c1ed4ea1f6f)
+
+[4. Type-Safe queries in Spring Data JPA](https://programmingsharing.com/type-safe-queries-in-spring-data-jpa-a4ca195d7c37)
